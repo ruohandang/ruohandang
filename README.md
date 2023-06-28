@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there :wave: :blush:	
+
+- 🔭 I’m currently doing my summer internship as a full-stack software engineer in east bay area
+- 🌱 I’m currently learning [VUE.js](https://vuejs.org/), :snowboarder:, and :lotus_position:
+- ⚡ Fun fact: wanna be a full-time farmer :woman_farmer:
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ruohandang/)
+
+:heartbeat:	:heartbeat:	:heartbeat:	
 
 <!--
 **ruohandang/ruohandang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Ruohan's github stats](https://github-readme-stats.vercel.app/api?username=ruohandang&count_private=true&show_icons=true&hide=stars&theme=cobalt)](https://github.com/ruohandang/github-readme-stats)
 -->
