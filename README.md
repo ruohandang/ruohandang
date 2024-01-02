@@ -1,6 +1,6 @@
 ### Hi there :wave: :blush:	
 
-- 🔭 I’m currently doing my summer internship as a full-stack software engineer in east bay area
+- 🔭 I’m currently doing the last semester of my cs master program
 - 🌱 I’m currently learning [VUE.js](https://vuejs.org/), :snowboarder:, and :lotus_position:
 - ⚡ Fun fact: wanna be a full-time farmer :woman_farmer:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ruohandang/)
