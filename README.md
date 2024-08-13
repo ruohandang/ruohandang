@@ -1,7 +1,6 @@
 ### Hi there :wave: :blush:	
 
-- 🔭 I’m currently doing the last semester of my cs master program
-- 🌱 I’m currently learning [VUE.js](https://vuejs.org/), :snowboarder:, and :lotus_position:
+- 🌱 I’m currently learning spring boot and water color painting.
 - ⚡ Fun fact: wanna be a full-time farmer :woman_farmer:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ruohandang/)
 
